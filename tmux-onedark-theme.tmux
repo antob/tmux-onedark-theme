@@ -39,11 +39,9 @@ set "status-left-length" "100"
 set "status-right-length" "100"
 set "status-right-attr" "none"
 
-set "message-fg" "$onedark_white"
-set "message-bg" "$onedark_black"
+set "message-style" "fg=$onedark_white bg=$onedark_black"
 
-set "message-command-fg" "$onedark_white"
-set "message-command-bg" "$onedark_black"
+set "message-command-style" "fg=$onedark_white bg=$onedark_black"
 
 set "status-attr" "none"
 set "status-left-attr" "none"
